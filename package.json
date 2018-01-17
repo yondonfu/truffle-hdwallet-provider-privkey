@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/rhlsthrm/truffle-hdwallet-provider-privkey/issues"
   },
-  "homepage": "https://github.com/rhlsthrm/truffle-hdwallet-provider-privkey#readme"
+  "homepage": "https://github.com/rhlsthrm/truffle-hdwallet-provider-privkey#readme",
+  "dependencies": {
+    "ethereumjs-wallet": "^0.6.0",
+    "web3": "^0.20.4",
+    "web3-provider-engine": "^13.5.0"
+  }
 }
